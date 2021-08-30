@@ -1,5 +1,5 @@
 {
-  "homepage": "http://linco6054.github.io/",
+  "homepage": "http://O-kantet.github.io/chucknorrisAPI",
   "name": "codingchallenge",
   "version": "0.1.0",
   "private": true,
@@ -21,7 +21,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "npm run build-scripts",
     "deploy": "gh-pages -d build",
     "start": "craco start",
     "build": "craco build",
